@@ -1,6 +1,7 @@
 /**
  * Create links for diffs on [[w:MediaWiki:Spam-blacklist]]
- * @author: [[User:Helder.wiki]]
+ * @author: Helder (https://github.com/he7d3r)
+ * @license: CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>
  * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/createDiffLinks.js]] ([[File:User:Helder.wiki/Tools/createDiffLinks.js]])
  */
 /*jslint browser: true, white: true, regexp: true */
